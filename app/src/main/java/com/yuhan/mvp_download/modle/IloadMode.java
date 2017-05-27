@@ -6,5 +6,5 @@ package com.yuhan.mvp_download.modle;
  */
 
 public interface IloadMode {
-    public int update(int progress,Onresult  onresult);
+    public int update(String url);
 }

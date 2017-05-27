@@ -22,7 +22,7 @@ public class DownLoadPresent  implements IPresenter{
 
     }
     public void goooooo(){
-
+        mode.update("http://192.22.222.22:xxxxx");
     }
 
 
